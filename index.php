@@ -2,7 +2,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
         <!--No campo "Título da página", digite o título da sua página-->
-        <title>SALED</title>
+        <title>NavData</title>
     </head>
     <body>
         <div>&nbsp;</div>
